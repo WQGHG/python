@@ -1,3 +1,4 @@
+
 class Solution:
     # @param {integer} num
     # @return {integer}
